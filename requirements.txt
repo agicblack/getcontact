@@ -10,3 +10,4 @@ PyYAML==5.3
 requests==2.22.0
 shellescape==3.8.1
 urllib3==1.25.8
+natasha==0.10.0
